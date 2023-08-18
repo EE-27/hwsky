@@ -1,4 +1,5 @@
-def str_func(st):
-    """fahufehfau"""
-    return st.upper()
+
+def str_func(stringa):
+    """this is function"""
+    return stringa.upper()
 
